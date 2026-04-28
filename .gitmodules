@@ -6,7 +6,7 @@
 	url = https://github.com/skeeto/optparse
 [submodule "third-party/libmonome"]
 	path = third-party/libmonome
-	url = https://github.com/monome/libmonome.git
+	url = https://github.com/tildebyte/libmonome.git
 [submodule "third-party/liblo"]
 	path = third-party/liblo
 	url = https://github.com/radarsat1/liblo.git
